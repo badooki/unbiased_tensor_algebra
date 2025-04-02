@@ -1,4 +1,4 @@
-# Derive an unbiased estimator of any linear tensor algebra
+# Automated derivation of unbiased estimator of any linear tensor algebra
 Please read [this note](disjoint_sum.pdf) for a detailed explanation of the mathematical framework of this method.
 
 ## Problem setup
